@@ -1,3 +1,3 @@
-# Tabris.js Getting Started
+Mobile App Starter Repository
 
-A minimal template of a Tabris.js project to get you started.
+A minimal template project to get you started.
